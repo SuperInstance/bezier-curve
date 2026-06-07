@@ -1,0 +1,11 @@
+[package]
+name = "bezier-curve"
+version = "0.1.0"
+edition = "2021"
+description = "Bézier curves and surfaces: linear/quadratic/cubic Bézier, de Casteljau's algorithm, curve splitting, arc length"
+license = "MIT"
+repository = "https://github.com/SuperInstance/bezier-curve"
+keywords = ["bezier", "curve", "graphics", "casteljau", "spline"]
+categories = ["graphics", "algorithms", "mathematics"]
+
+[dependencies]
